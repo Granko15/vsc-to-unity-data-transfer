@@ -15,7 +15,6 @@ jspm_packages/
 *.tsbuildinfo
 
 # Visual Studio Code
-.vscode/
 .history/
 
 # Environment variables
